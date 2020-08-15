@@ -1,3 +1,5 @@
+import heapq
+
 class minHeap: 
     def __init__(self, maxsize): 
         self.maxsize = maxsize 
